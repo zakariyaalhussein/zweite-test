@@ -1,0 +1,62 @@
+#navbar1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin: 0px;
+}
+
+#homes {
+    background-color: rgb(75, 70, 70);
+    padding: 15px;
+}
+
+#home {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#sort {
+    margin-left: 90%;
+    background-color: rgb(75, 70, 70);
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+
+#movies {
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    color: white;
+}
+
+.container1 {
+    background-color: rgb(42, 39, 39);
+}
+
+.btn {
+    position: absolute;
+    left: 70%;
+    top: 80%;
+}
+
+.count {
+    color: white;
+    position: absolute;
+    left: 88%;
+    top: 76%;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+    background: #3f05d4;
+    text-align: center;
+    font: 32px Arial, sans-serif;
+}
+
+.card {
+    padding: 8px;
+}
